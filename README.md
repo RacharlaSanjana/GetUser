@@ -1,4 +1,5 @@
-##User Card Grid
+#User Card Grid
+
 This is a simple web application that fetches user data from an API and displays it in a grid format. Each user is represented by a card containing their name, profile picture, and email address.
 
 #Technologies Used
